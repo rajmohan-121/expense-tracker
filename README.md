@@ -158,6 +158,17 @@ DELETE	/expenses/{id}	Soft delete expense
 
 - Separation of concerns between UI, logic, and API layers
 
+## 📷 Application Preview
+
+### 💻 Expense Tracker – Frontend UI
+<img src="screenshots/app-ui.png" width="900" alt="Expense Tracker UI" />
+
+---
+
+### 📄 Backend – FastAPI Swagger UI
+<img src="screenshots/swagger-ui.png" width="900" alt="FastAPI Swagger UI" />
+
+
 ## 📌 Future Enhancements
 
 - Authentication & user accounts
